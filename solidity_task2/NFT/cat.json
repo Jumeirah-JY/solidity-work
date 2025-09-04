@@ -1,0 +1,30 @@
+{
+  "description": "this is my baby cat!", 
+  "external_url": "https://openseacreatures.io/3", 
+  "image": "ipfs://bafybeiblgqvhjvf2ba2z64pyqueeh7rba2u4rztow2apurkemkc7aai5mi", 
+  "name": "cat",
+  "attributes": [
+    {
+      "trait_type": "稀有度",
+      "value": "稀有"
+    },
+    {
+      "trait_type": "背景",
+      "value": "星空"
+    },
+    {
+      "trait_type": "颜色",
+      "value": "白色"
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "版本",
+      "value": 1
+    },
+    {
+      "display_type": "date",
+      "trait_type": "创建日期",
+      "value": 20250904
+    }
+  ]
+}
